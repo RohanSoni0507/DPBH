@@ -284,47 +284,6 @@ tr:hover {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.semester-cards {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-}
-
-.semester-card {
-    border: 1px solid #ccc;
-    padding: 10px;
-    height: 250px;
-    width: 200px;
-    color: #ccc;
-    background-color: transparent;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    cursor: pointer;
-    transition: background-color 0.2s, transform 0.2s;
-    margin: 40px 20px;
-    margin-left: 50px;
-}
-
-.semester-card:hover {
-    transform: scale(1.05);
-}
-
-.semester-image {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-}
-
-.semester-name {
-    font-weight: bold;
-    margin-top: 10px;
-}
-
-.semester-card a {
-    text-decoration: none;
-    color: #007BFF;
-    font-weight: bold;
-}
-
 @media (max-width: 700px) {
     .semester-card {
         flex: 0 1 100%;
