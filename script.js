@@ -64,11 +64,11 @@ const books = [
     pdfLink: "books/lacr2.pdf",
   },
   {
-    name: "Tips for Safe Online Shopping - Unmasking Deception : Case Studies on Notorious Instances of Dark Patterns",
+    name: "Tips for Safe Online Shopping - Smart Shopper's Guide : Tips for Safe Online Shopping",
     pdfLink: "books/tfsos1.pdf",
   },
   {
-    name: "Tips for Safe Online Shopping - Unveiling Dark Patterns : Analyzing Impact and Exposures in Notorious Case Studies",
+    name: "Tips for Safe Online Shopping - Navigating Online Shopping Safely : Your Guide to Smart Consumer Choices",
     pdfLink: "books/tfsos2.pdf",
   },
   {
@@ -255,10 +255,14 @@ const subjects = [
     name: "Tips for Safe Online Shopping",
     image: "images/tfsos.jpg",
     books: [
-      {
-        name: "Youtube Playlist Recommendation",
-        pdfLink: "books/uhvr.pdf",
-      },
+        {
+            name: "Smart Shopper's Guide : Tips for Safe Online Shopping",
+            pdfLink: "books/tfsos1.pdf",
+          },
+          {
+            name: "Navigating Online Shopping Safely : Your Guide to Smart Consumer Choices",
+            pdfLink: "books/tfsos2.pdf",
+          },
     ],
   },
   {
