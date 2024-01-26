@@ -227,11 +227,11 @@ const subjects = [
     image: "images/ioub.jpg",
     books: [
         {
-            name: "Impact on User Behavior - The Puppetry of Deception : Understanding the Impact of Dark Patterns on User Behavior and Decision-Making",
+            name: "The Puppetry of Deception : Understanding the Impact of Dark Patterns on User Behavior and Decision-Making",
             pdfLink: "books/ioub1.pdf",
           },
           {
-            name: "Impact on User Behavior - Decoding Dark Patterns : Understanding the Psychology Behind Manipulative Design Strategies",
+            name: "Decoding Dark Patterns : Understanding the Psychology Behind Manipulative Design Strategies",
             pdfLink: "books/ioub2.pdf",
           },
     ],
@@ -241,11 +241,11 @@ const subjects = [
     image: "images/lacr.jpg",
     books: [
         {
-            name: "Legal Aspects and Consumer Rights - Empowering Consumers : Understanding Legal Aspects and Rights in the Realm of Dark Patterns",
+            name: "Empowering Consumers : Understanding Legal Aspects and Rights in the Realm of Dark Patterns",
             pdfLink: "books/lacr1.pdf",
           },
           {
-            name: "Legal Aspects and Consumer Rights - Identifying Dark Patterns : Understanding Violations of Consumer Protection Laws",
+            name: "Identifying Dark Patterns : Understanding Violations of Consumer Protection Laws",
             pdfLink: "books/lacr2.pdf",
           },
     ],
@@ -269,50 +269,70 @@ const subjects = [
     name: "Interactive Quizzes and Scenarios",
     image: "images/iqas.jpg",
     books: [
-      {
-        name: "List of Lab Experiments",
-        pdfLink: "books/list.pdf",
-      },
+        {
+            name: "Test your knowledge in a practical context",
+            pdfLink: "books/iqas1.pdf",
+          },
+          {
+            name: "Feedback and explanations for correct and incorrect responses",
+            pdfLink: "books/iqas2.pdf",
+          },
     ],
   },
   {
     name: "Video Tutorials",
     image: "images/vt.jpg",
     books: [
-      {
-        name: "Youtube Video Recommendation",
-        pdfLink: "books/cctsr.pdf",
-      },
+        {
+            name: "Deceptive Design and Dark Patterns: What are they? What do they do? How do we stop them?",
+            pdfLink: "books/vt1.pdf",
+          },
+          {
+            name: "Dark Patterns: Hidden Tactics & Unlawful Practices",
+            pdfLink: "books/vt2.pdf",
+          },
     ],
   },
   {
     name: "Updates on Emerging Patterns",
     image: "images/uoep.jpg",
     books: [
-      {
-        name: "All Subjects Syllabus 2021",
-        pdfLink: "books/ass.pdf",
-      },
+        {
+            name: "Dynamic Insights : Stay Informed on Emerging Dark Patterns",
+            pdfLink: "books/uoep1.pdf",
+          },
+          {
+            name: "Dark Patterns Watch : Your Guide to the Latest Tactics in Digital Manipulation",
+            pdfLink: "books/uoep2.pdf",
+          },
     ],
   },
   {
     name: "FAQs and Troubleshooting",
     image: "images/fat.jpg",
     books: [
-      {
-        name: "Probability and Queueing Theory : Youtube Playlist Recommendation",
-        pdfLink: "books/pqtr.pdf",
-      },
+        {
+            name: "Your Guide to Smooth Navigation",
+            pdfLink: "books/fat1.pdf",
+          },
+          {
+            name: "Your Guide to Smart Navigation",
+            pdfLink: "books/fat2.pdf",
+          },
     ],
   },
   {
     name: "User Testimonials and Experiences",
     image: "images/utae.jpg",
     books: [
-      {
-        name: "Time Table - 4th Semester",
-        pdfLink: "books/tt.pdf",
-      },
+        {
+            name: "User Testimonials: Navigating the Digital Maze with Confidence",
+            pdfLink: "books/utae1.pdf",
+          },
+          {
+            name: "User Stories: Illuminating the Path Through the Digital Wilderness",
+            pdfLink: "books/utae2.pdf",
+          },
     ],
   },
 ];
