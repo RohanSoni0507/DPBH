@@ -80,11 +80,11 @@ const books = [
     pdfLink: "books/iqas2.pdf",
   },
   {
-    name: "Video Tutorials - Unmasking Deception : Case Studies on Notorious Instances of Dark Patterns",
+    name: "Video Tutorials - Deceptive Design and Dark Patterns: What are they? What do they do? How do we stop them?",
     pdfLink: "books/vt1.pdf",
   },
   {
-    name: "Video Tutorials - Unveiling Dark Patterns : Analyzing Impact and Exposures in Notorious Case Studies",
+    name: "Video Tutorials - Dark Patterns: Hidden Tactics & Unlawful Practices",
     pdfLink: "books/vt2.pdf",
   },
   {
@@ -104,11 +104,11 @@ const books = [
     pdfLink: "books/fat2.pdf",
   },
   {
-    name: "User Testimonials and Experiences - Unmasking Deception : Case Studies on Notorious Instances of Dark Patterns",
+    name: "User Testimonials and Experiences -  User Testimonials: Navigating the Digital Maze with Confidence",
     pdfLink: "books/utae1.pdf",
   },
   {
-    name: "User Testimonials and Experiences - Unveiling Dark Patterns : Analyzing Impact and Exposures in Notorious Case Studies",
+    name: "User Testimonials and Experiences - User Stories: Illuminating the Path Through the Digital Wilderness",
     pdfLink: "books/utae2.pdf",
   },
 ];
