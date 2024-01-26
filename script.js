@@ -88,11 +88,11 @@ const books = [
     pdfLink: "books/vt2.pdf",
   },
   {
-    name: "Updates on Emerging Patterns - Unmasking Deception : Case Studies on Notorious Instances of Dark Patterns",
+    name: "Updates on Emerging Patterns - Dynamic Insights : Stay Informed on Emerging Dark Patterns",
     pdfLink: "books/uoep1.pdf",
   },
   {
-    name: "Updates on Emerging Patterns - Unveiling Dark Patterns : Analyzing Impact and Exposures in Notorious Case Studies",
+    name: "Updates on Emerging Patterns - Dark Patterns Watch : Your Guide to the Latest Tactics in Digital Manipulation",
     pdfLink: "books/uoep2.pdf",
   },
   {
