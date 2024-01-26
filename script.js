@@ -16,8 +16,8 @@ closeMenuButton.addEventListener('click', closeSlideInMenu);
 
 const books = [
     {
-        name: "Artificial Intelligence : Text Book 1",
-        pdfLink: "books/tb1.pdf"
+        name: "Introduction to Dark Patterns: Understanding Deceptive Design in the Digital Realm",
+        pdfLink: "books/todp1.pdf"
     },
 ];
 
@@ -75,74 +75,74 @@ window.addEventListener('load', () => {
 });
 
 const subjects = [
-    { name: 'Introduction to Dark Patterns', image: 'images/pqt.jpg', books: [
+    { name: 'Introduction to Dark Patterns', image: 'images/itdp.jpg', books: [
         {
-            name: "Youtube Playlist Recommendation",
-            pdfLink: "books/pqtr.pdf"
+            name: "Understanding Deceptive Design in the Digital Realm",
+            pdfLink: "books/todp1.pdf"
         },
     ] },
-    { name: 'Types of Dark Patterns', image: 'images/daa1.jpg', books: [
+    { name: 'Types of Dark Patterns', image: 'images/todp.jpg', books: [
         {
             name: "List of Books",
             pdfLink: "books/daabooklist.pdf"
         },
     ] },
-    { name: 'Recognizing Manipulative Design', image: 'images/iot.jpg', books: [
+    { name: 'Recognizing Manipulative Design', image: 'images/rmd.jpg', books: [
         {
             name: "Youtube Playlist Recommendation",
             pdfLink: "books/iotr.pdf"
         },
     ] },
-    { name: 'Case Studies', image: 'images/dms.jpg', books: [
+    { name: 'Case Studies', image: 'images/cs.jpg', books: [
         {
         name: "Course Plan 21CSC206T AI_2324_even",
         pdfLink: "books/dbmscp.pdf"
         },
     ] },
-    { name: 'Impact on User Behavior', image: 'images/se.jpg', books: [
+    { name: 'Impact on User Behavior', image: 'images/ioub.jpg', books: [
         {
             name: "Last Year Question Paper",
             pdfLink: "books/seques.pdf"
         },
     ] },
-    { name: 'Legal Aspects and Consumer Rights', image: 'images/ai.jpg', books: [
+    { name: 'Legal Aspects and Consumer Rights', image: 'images/lacr.jpg', books: [
         {
             name: "Text Book 1",
             pdfLink: "books/tb1.pdf"
         },
     ] },
 
-    { name: 'Tips for Safe Online Shopping', image: 'images/uhv.jpg', books: [
+    { name: 'Tips for Safe Online Shopping', image: 'images/tfsos.jpg', books: [
         {
             name: "Youtube Playlist Recommendation",
             pdfLink: "books/uhvr.pdf"
         },
     ] },
-    { name: 'Interactive Quizzes and Scenarios', image: 'images/daa2.jpg', books: [
+    { name: 'Interactive Quizzes and Scenarios', image: 'images/iqas.jpg', books: [
         {
             name: "List of Lab Experiments",
             pdfLink: "books/list.pdf"
         },
     ] },
-    { name: 'Video Tutorials', image: 'images/ccts.jpg', books: [
+    { name: 'Video Tutorials', image: 'images/vt.jpg', books: [
         {
             name: "Youtube Video Recommendation",
             pdfLink: "books/cctsr.pdf"
         },
     ] },
-    { name: 'Updates on Emerging Patterns', image: 'images/cc.jpg', books: [
+    { name: 'Updates on Emerging Patterns', image: 'images/uoep.jpg', books: [
         {
             name: "All Subjects Syllabus 2021",
             pdfLink: "books/ass.pdf"
         },
     ] },
-    { name: 'FAQs and Troubleshooting', image: 'images/you.jpg', books: [
+    { name: 'FAQs and Troubleshooting', image: 'images/fat.jpg', books: [
         {
             name: "Probability and Queueing Theory : Youtube Playlist Recommendation",
             pdfLink: "books/pqtr.pdf"
         },
     ] },
-    { name: 'User Testimonials and Experiences', image: 'images/tt.jpg', books: [
+    { name: 'User Testimonials and Experiences', image: 'images/utae.jpg', books: [
         {
             name: "Time Table - 4th Semester",
             pdfLink: "books/tt.pdf"
