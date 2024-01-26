@@ -96,11 +96,11 @@ const books = [
     pdfLink: "books/uoep2.pdf",
   },
   {
-    name: "FAQs and Troubleshooting - Unmasking Deception : Case Studies on Notorious Instances of Dark Patterns",
+    name: "FAQs and Troubleshooting - Your Guide to Smooth Navigation",
     pdfLink: "books/fat1.pdf",
   },
   {
-    name: "FAQs and Troubleshooting - Unveiling Dark Patterns : Analyzing Impact and Exposures in Notorious Case Studies",
+    name: "FAQs and Troubleshooting - Your Guide to Smart Navigation",
     pdfLink: "books/fat2.pdf",
   },
   {
