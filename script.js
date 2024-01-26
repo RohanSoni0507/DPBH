@@ -56,11 +56,11 @@ const books = [
     pdfLink: "books/ioub2.pdf",
   },
   {
-    name: "Legal Aspects and Consumer Rights - Unmasking Deception : Case Studies on Notorious Instances of Dark Patterns",
+    name: "Legal Aspects and Consumer Rights - Empowering Consumers : Understanding Legal Aspects and Rights in the Realm of Dark Patterns",
     pdfLink: "books/lacr1.pdf",
   },
   {
-    name: "Legal Aspects and Consumer Rights - Unveiling Dark Patterns : Analyzing Impact and Exposures in Notorious Case Studies",
+    name: "Legal Aspects and Consumer Rights - Identifying Dark Patterns : Understanding Violations of Consumer Protection Laws",
     pdfLink: "books/lacr2.pdf",
   },
   {
@@ -240,10 +240,14 @@ const subjects = [
     name: "Legal Aspects and Consumer Rights",
     image: "images/lacr.jpg",
     books: [
-      {
-        name: "Text Book 1",
-        pdfLink: "books/tb1.pdf",
-      },
+        {
+            name: "Legal Aspects and Consumer Rights - Empowering Consumers : Understanding Legal Aspects and Rights in the Realm of Dark Patterns",
+            pdfLink: "books/lacr1.pdf",
+          },
+          {
+            name: "Legal Aspects and Consumer Rights - Identifying Dark Patterns : Understanding Violations of Consumer Protection Laws",
+            pdfLink: "books/lacr2.pdf",
+          },
     ],
   },
 
