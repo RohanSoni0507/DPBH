@@ -72,11 +72,11 @@ const books = [
     pdfLink: "books/tfsos2.pdf",
   },
   {
-    name: "Interactive Quizzes and Scenarios - Unmasking Deception : Case Studies on Notorious Instances of Dark Patterns",
+    name: "Interactive Quizzes and Scenarios - Test your knowledge in a practical context",
     pdfLink: "books/iqas1.pdf",
   },
   {
-    name: "Interactive Quizzes and Scenarios - Unveiling Dark Patterns : Analyzing Impact and Exposures in Notorious Case Studies",
+    name: "Interactive Quizzes and Scenarios -  Feedback and explanations for correct and incorrect responses",
     pdfLink: "books/iqas2.pdf",
   },
   {
